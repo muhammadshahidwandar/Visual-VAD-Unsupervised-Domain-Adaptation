@@ -15,6 +15,7 @@ The code in this repository allows
 5. Training and testing of unsuperwised domain adaptation using fc features.
 
 ## Sub Directories and Files
+There are three sub directories discribed as follows
 
 ###images
          This subdirectory containes some sample dynamic images
