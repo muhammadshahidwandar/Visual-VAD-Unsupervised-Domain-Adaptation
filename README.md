@@ -18,7 +18,7 @@ The code in this repository allows
 There are three sub directories discribed as follows
 
 ### images
-         This subdirectory containes some sample dynamic images
+This subdirectory containes some sample dynamic images
 ### Resnet-Training-Tensorflow
 
 ``Train_Main``: To train Resnet model on given dataset 
