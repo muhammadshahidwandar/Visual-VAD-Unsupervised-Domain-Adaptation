@@ -15,9 +15,11 @@ The code in this repository allows
 5. Training and testing of unsuperwised domain adaptation using fc features.
 
 ## Sub Directories and Files
+
 ###images
          This subdirectory containes some sample dynamic images
 ### Resnet-Training-Tensorflow
+
 ``Train_Main``: To train Resnet model on given dataset 
 
 ``Test_Main.py``: Test the trained model on signle image
@@ -46,12 +48,19 @@ Some pretrained resnet50 model can be downloaded from this link
 
 ## How it works
 1- Obtain your target datasets e.g.  RealVAD()
+
 2- Generate and Save Dynamic Image using (https://github.com/hbilen/dynamic-image-nets) 
+
 3- Define your training and test folds in text files 
+
 4- Change paths and parameters in Train_Main.py and Train Resnet50 model
+
 5- Evaluate trained model on test set using Model_Evaluation.py
+
 6- Any signle dynamic image can be tested using Test_Main.py 
+
 7- Save fc feature for training and test data in .mat file using FcMatWritter.py
+
 8- Run VAD_Domain_Adaptation.m in matlab to perform and test Unsuperwised domain adaptation
 
 ## Reference
