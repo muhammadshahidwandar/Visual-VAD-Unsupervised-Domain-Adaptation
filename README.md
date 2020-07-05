@@ -17,7 +17,7 @@ The code in this repository allows
 ## Sub Directories and Files
 There are three sub directories discribed as follows
 
-###images
+### images
          This subdirectory containes some sample dynamic images
 ### Resnet-Training-Tensorflow
 
