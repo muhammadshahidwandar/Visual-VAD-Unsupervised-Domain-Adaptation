@@ -73,6 +73,3 @@ Muhammad Shahid, Cigdem Beyan and Vittorio Murino, ICCVW 2019
   year={2019}
 }
 ```
-
-
- 
