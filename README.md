@@ -1,4 +1,4 @@
-# Tensorflow and Matlab Code for the paper [RealVAD: A Real-world Dataset for Voice Activity Detection]()[Voice Activity Detection by Upper Body Motion Analysis and Unsupervised Domain Adaptation](https://openaccess.thecvf.com/content_ICCVW_2019/html/HBU/Shahid_Voice_Activity_Detection_by_Upper_Body_Motion_Analysis_and_Unsupervised_ICCVW_2019_paper.html)
+# Tensorflow and Matlab Code for the papers [RealVAD: A Real-world Dataset for Voice Activity Detection]()[Voice Activity Detection by Upper Body Motion Analysis and Unsupervised Domain Adaptation](https://openaccess.thecvf.com/content_ICCVW_2019/html/HBU/Shahid_Voice_Activity_Detection_by_Upper_Body_Motion_Analysis_and_Unsupervised_ICCVW_2019_paper.html)
 
 ## Overview
 
@@ -45,7 +45,8 @@ Some pretrained resnet50 model can be downloaded from this link
 * Python 3.5
 * Tensorflow 1.12
 * Opencv 3.0
-* natsort 7.0.1
+* Natsort 7.0.1
+* Matlab 2017b
 
 ## How it works
 1- Obtain your target datasets e.g.  RealVAD()
@@ -67,10 +68,10 @@ Some pretrained resnet50 model can be downloaded from this link
 ## Reference
 
 **RealVAD: A Real-world Dataset for Voice Activity Detection**  
-Cigdem Beyan, Muhammad Shahid and Vittorio Murino, in Press 2020
+Cigdem Beyan, Muhammad Shahid and Vittorio Murino,
 ```
-    @InProceedings{
-    }
+"RealVAD: A Real-world Dataset and A Method for Voice Activity Detection 
+by Body Motion Analysis", in IEEE Transactions on Multimedia, IN PRESS.
 ```
 **Voice Activity Detection by Upper Body Motion Analysis and Unsupervised Domain Adaptation**  
 Muhammad Shahid, Cigdem Beyan and Vittorio Murino, ICCVW 2019
