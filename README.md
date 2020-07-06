@@ -23,6 +23,9 @@ There are three sub-directories described as follows:
 ### Images
 Containes some sample dynamic images
 
+### RealVAD
+Containes some sample train and validation set 
+
 ### Resnet-Finetuning
 
 ``Train_Main``: To train ResNet model on a given dataset 
@@ -43,7 +46,7 @@ Containes some sample dynamic images
 
 ``VAD_Domain_Adaptation.m``: Training and test unsupervised domain adaptation when the ResNet fc features are the input
 
-Some pre-trained ResNet50 model can be downloaded from this link (www.??.??)
+Some pre-trained ResNet50 model can be downloaded from this link (https://drive.google.com/drive/folders/1dHYOMuzXHL46P1zDgDyDj9NgYzV1nNSS?usp=sharing)
 
 ## Dependencies
 * Python 3.5
@@ -57,7 +60,7 @@ Some pre-trained ResNet50 model can be downloaded from this link (www.??.??)
 
 2- Generate and save the dynamic image by using (https://github.com/hbilen/dynamic-image-nets) 
 
-3- Define your training and test folds in the text files (example files as given as ???)
+3- Define your training and test folds in the text files (example files as given as trainRealVAD1.txt and testRealVAD1.txt in RealVAD sub-directory)
 
 4- Change paths and parameters in Train_Main.py to train ResNet model
 
