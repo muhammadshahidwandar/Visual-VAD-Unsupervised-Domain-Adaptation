@@ -42,7 +42,7 @@ Containes some sample train and validation set
 
 ``datageneratorSequenceBatch.py``: Sequential image batch generator
 
-### Unsuperwised-DomainAdaptation-Matlab
+### Unsupervised-DomainAdaptation-Matlab
 
 ``VAD_Domain_Adaptation.m``: Training and test unsupervised domain adaptation when the ResNet fc features are the input
 
